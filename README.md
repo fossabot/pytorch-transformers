@@ -1,6 +1,7 @@
 # 👾 PyTorch-Transformers
 
 [![CircleCI](https://circleci.com/gh/huggingface/pytorch-transformers.svg?style=svg)](https://circleci.com/gh/huggingface/pytorch-transformers)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmenzew%2Fpytorch-transformers.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmenzew%2Fpytorch-transformers?ref=badge_shield)
 
 PyTorch-Transformers (formerly known as `pytorch-pretrained-bert`) is a library of state-of-the-art pre-trained models for Natural Language Processing (NLP).
 
@@ -376,3 +377,7 @@ for batch in train_data:
 ## Citation
 
 At the moment, there is no paper associated to PyTorch-Transformers but we are working on preparing one. In the meantime, please include a mention of the library and a link to the present repository if you use this work in a published or open-source project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fmenzew%2Fpytorch-transformers.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fmenzew%2Fpytorch-transformers?ref=badge_large)
